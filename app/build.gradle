@@ -61,8 +61,6 @@ dependencies {
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_ui_version"
     debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_ui_version"
 
-    implementation 'com.github.DTGlov:CheckoutLibrary:1.1'
-    implementation "io.github.being-eyram:iconsax-android:1.0.0"
 
-    implementation  project(':checkout')
+    implementation 'com.github.DTGlov:test:1.0'
 }

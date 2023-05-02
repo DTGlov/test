@@ -52,7 +52,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.DTGlov'
-                artifactId = 'checkout-compose'
+                artifactId = 'checkout-test'
                 version = '1.0'
             }
         }
